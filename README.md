@@ -1,2 +1,3 @@
 # wp-mtranslate
-Wordpress Myridia Translate
+Wordpress Myridia Translate Plugin
+
